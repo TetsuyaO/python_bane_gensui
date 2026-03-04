@@ -2,7 +2,7 @@ import numpy as np
 import tensorflow as tf
 import matplotlib.pyplot as plt
 
-#ちょっとテストしてみた。
+#2nd ver
 
 def FDM(init_x, init_v, init_t, gamma, omega ,dt, T):
     '''
